@@ -25,7 +25,7 @@ public class HomeController {
 		
 		return mv;
 	}
-	
+	// hello git 
 	@RequestMapping("/")
 	public ModelAndView Default() {
 		ModelAndView mv = new ModelAndView("home");
