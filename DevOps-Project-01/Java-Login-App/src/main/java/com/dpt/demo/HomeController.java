@@ -15,7 +15,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 public class HomeController {
 
-
+//hello home controller
 	
 	@RequestMapping("home")
 	public ModelAndView home() {
