@@ -25,7 +25,7 @@ public class HomeController {
 		
 		return mv;
 	}
-	
+	//this is first code 
 	@RequestMapping("/")
 	public ModelAndView Default() {
 		ModelAndView mv = new ModelAndView("home");
